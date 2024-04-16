@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mariela\\Desktop\\C#\\Ejercicios UMG\\Proyecto_Geometria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4405CA9-C71C-4BF5-89D1-7E7E5CD65C66}|Proyecto_Geometria\\Proyecto_Geometria.csproj|c:\\users\\mariela\\desktop\\c#\\ejercicios umg\\proyecto_geometria\\proyecto_geometria\\formularios\\frmcilindro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4405CA9-C71C-4BF5-89D1-7E7E5CD65C66}|Proyecto_Geometria\\Proyecto_Geometria.csproj|solutionrelative:proyecto_geometria\\formularios\\frmcilindro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4405CA9-C71C-4BF5-89D1-7E7E5CD65C66}|Proyecto_Geometria\\Proyecto_Geometria.csproj|C:\\Users\\Mariela\\Desktop\\C#\\Ejercicios UMG\\Proyecto_Geometria\\proyecto_geometria\\formularios\\frmcilindro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4405CA9-C71C-4BF5-89D1-7E7E5CD65C66}|Proyecto_Geometria\\Proyecto_Geometria.csproj|solutionrelative:proyecto_geometria\\formularios\\frmcilindro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCilindro.cs",
+              "DocumentMoniker": "C:\\Users\\Mariela\\Desktop\\C#\\Ejercicios UMG\\Proyecto_Geometria\\Proyecto_Geometria\\FORMULARIOS\\frmCilindro.cs",
+              "RelativeDocumentMoniker": "Proyecto_Geometria\\FORMULARIOS\\frmCilindro.cs",
+              "ToolTip": "C:\\Users\\Mariela\\Desktop\\C#\\Ejercicios UMG\\Proyecto_Geometria\\Proyecto_Geometria\\FORMULARIOS\\frmCilindro.cs",
+              "RelativeToolTip": "Proyecto_Geometria\\FORMULARIOS\\frmCilindro.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAjwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:28:37.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCilindro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Mariela\\Desktop\\C#\\Ejercicios UMG\\Proyecto_Geometria\\Proyecto_Geometria\\FORMULARIOS\\frmCilindro.cs",
+              "RelativeDocumentMoniker": "Proyecto_Geometria\\FORMULARIOS\\frmCilindro.cs",
+              "ToolTip": "C:\\Users\\Mariela\\Desktop\\C#\\Ejercicios UMG\\Proyecto_Geometria\\Proyecto_Geometria\\FORMULARIOS\\frmCilindro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto_Geometria\\FORMULARIOS\\frmCilindro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:10:19.922Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

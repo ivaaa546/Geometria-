@@ -1,0 +1,13 @@
+C:\Users\Mariela\Desktop\C#\Ejercicios UMG\Proyecto_Geometria\Proyecto_Geometria\bin\Debug\Proyecto_Geometria.exe.config
+C:\Users\Mariela\Desktop\C#\Ejercicios UMG\Proyecto_Geometria\Proyecto_Geometria\bin\Debug\Proyecto_Geometria.exe
+C:\Users\Mariela\Desktop\C#\Ejercicios UMG\Proyecto_Geometria\Proyecto_Geometria\bin\Debug\Proyecto_Geometria.pdb
+C:\Users\Mariela\Desktop\C#\Ejercicios UMG\Proyecto_Geometria\Proyecto_Geometria\obj\Debug\Proyecto_Geometria.csproj.AssemblyReference.cache
+C:\Users\Mariela\Desktop\C#\Ejercicios UMG\Proyecto_Geometria\Proyecto_Geometria\obj\Debug\Proyecto_Geometria.frmPrincipal.resources
+C:\Users\Mariela\Desktop\C#\Ejercicios UMG\Proyecto_Geometria\Proyecto_Geometria\obj\Debug\Proyecto_Geometria.Properties.Resources.resources
+C:\Users\Mariela\Desktop\C#\Ejercicios UMG\Proyecto_Geometria\Proyecto_Geometria\obj\Debug\Proyecto_Geometria.csproj.GenerateResource.cache
+C:\Users\Mariela\Desktop\C#\Ejercicios UMG\Proyecto_Geometria\Proyecto_Geometria\obj\Debug\Proyecto_Geometria.csproj.CoreCompileInputs.cache
+C:\Users\Mariela\Desktop\C#\Ejercicios UMG\Proyecto_Geometria\Proyecto_Geometria\obj\Debug\Proyecto_Geometria.exe
+C:\Users\Mariela\Desktop\C#\Ejercicios UMG\Proyecto_Geometria\Proyecto_Geometria\obj\Debug\Proyecto_Geometria.pdb
+C:\Users\Mariela\Desktop\C#\Ejercicios UMG\Proyecto_Geometria\Proyecto_Geometria\obj\Debug\Proyecto_Geometria.FORMULARIOS.frmPCuadrangular.resources
+C:\Users\Mariela\Desktop\C#\Ejercicios UMG\Proyecto_Geometria\Proyecto_Geometria\obj\Debug\Proyecto_Geometria.FORMULARIOS.frmPrismaHexagonal.resources
+C:\Users\Mariela\Desktop\C#\Ejercicios UMG\Proyecto_Geometria\Proyecto_Geometria\obj\Debug\Proyecto_Geometria.FORMULARIOS.frmCilindro.resources
